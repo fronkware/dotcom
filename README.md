@@ -14,7 +14,7 @@ Imagine receiving the following email from a colleague. It's much more personal:
 
 HELLO FRIEND, THIS IS FRONK. 
 
-<img src="https://i.imgur.com/oYL44FN.gif" alt="f ro n k w a r e " class="inline" height=200/>
+<img src="https://i.imgur.com/oYL44FN.gif" alt="fronkware" class="inline" height=200/>
 
 I AM HERE TO ASK A HOW YOUR A DAY IS A GOING. HAPPY A TO GO NOW!!
 
