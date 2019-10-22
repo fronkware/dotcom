@@ -1,37 +1,19 @@
-## Welcome to GitHub Pages
+## Welcome Fronkware.github.io/dotcom "it's dot com!"
 
-You can use the [editor on GitHub](https://github.com/fronkware/dotcom/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+You're here now, you can sit over there, but you won't be here then.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### My pitch
 
-### Markdown
+Everyone has it, you all want another, so stay tuned!
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+It's a custom email signature, but tells you more than just a goodbye for internet 2.0 beta IOT with this:
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+# Warm
+## Warmer
+### Warmest
 
-- Bulleted
-- List
+- regards
+- thoughts
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/fronkware/dotcom/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+That's my idea. 
