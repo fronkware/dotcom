@@ -8,7 +8,7 @@ Everyone has it, you all want another, so stay tuned!
 
 It's a custom email signature, but tells you more than just a goodbye for internet 2.0 beta IOT with this:
 
-<img src="https://i.imgur.com/oYL44FN.gif" alt="f ro n k w a r e " class="inline"/>
+<img src="https://i.imgur.com/oYL44FN.gif" alt="f ro n k w a r e " class="inline" height=200/>
 
 
 # Warm
