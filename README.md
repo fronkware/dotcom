@@ -1,4 +1,4 @@
-## Welcome Fronkware.github.io/dotcom "it's dot com!"
+## f r o n k w a r e 
 
 You're here now, you can sit over there, but you won't be here then.
 
