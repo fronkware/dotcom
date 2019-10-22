@@ -1,7 +1,11 @@
 ## f r o n k w a r e 
 
 
-i'm here
+
+<h3 id="small-image">i'm here</h3>
+
+<p><img src="https://github.com/fronkware/dotcom/blob/master/images/fra.gif" alt="Octocat" height="200"/></p>
+
 
 
 # <a href="https://play.google.com/store/apps/developer?id=FronkWare&hl=en">apps</a>
