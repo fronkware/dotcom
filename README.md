@@ -4,7 +4,7 @@
 
 <h3 id="small-image">i'm here</h3>
 
-<p><img src="images/fra.gif" alt="Octocat" height="200"/></p>
+<p><img src="images/fra.gif" alt="cananda" height="200"/></p>
 
 
 
