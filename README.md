@@ -27,5 +27,3 @@ i'm here
 
 
 
-resume
-bitcoin: eag9a0a03jaicin4g.agae.dotcom
